@@ -1,4 +1,4 @@
-## Parse Litedefi TX
+## Parse LiteDeFi TX
 
 Work in progress
 
